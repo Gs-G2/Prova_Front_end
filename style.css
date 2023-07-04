@@ -1,0 +1,80 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.primary-color {
+    color: white;
+}
+
+.brasil-color {
+    color: green;
+}
+
+.argentina-color {
+    color: aquamarine;
+}
+
+.paraguai-color {
+    color: red;
+}
+
+.portugal-color {
+    color: green;
+}
+
+.Italia-color {
+    color: red;
+}
+
+.espanha-color {
+    color: yellow;
+}
+
+.estados-unidos-color {
+    color: blue;
+}
+
+.canada-color {
+    color: red;
+}
+
+.mexico-color {
+    color: green;
+}
+
+.tanzania-color {
+    color: lightseagreen;
+}
+
+.africa-do-sul-color {
+    color: lightcoral;
+}
+
+.marrocos-color {
+    color: red;
+}
+
+.australia-color {
+    color: blue;
+}
+
+.nova-zelandia-color {
+    color: red;
+}
+
+.nauru-color {
+    color: yellow;
+}
