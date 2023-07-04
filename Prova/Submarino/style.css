@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.title-color {
+    color: blue;
+}
+
+.p-color {
+    color: white;
+}
+
+img {
+    width: 90%;
+}
